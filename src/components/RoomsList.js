@@ -1,7 +1,6 @@
 import React from "react";
 import Room from "./Room";
-const RoomList = (props) => {
-    console.log(props);
+const RoomsList = (props) => {
     if (props.rooms.length === 0) {
     return (
       <div className="empty-search">
@@ -22,4 +21,4 @@ const RoomList = (props) => {
   );
 };
 
-export default RoomList;
+export default RoomsList;
