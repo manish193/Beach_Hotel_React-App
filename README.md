@@ -1,8 +1,9 @@
-#React WebApp for Hotel room 
+# React WebApp for Hotel rooms
+
 
 Hosted on Netlify
 
-Link - https://hotel-rooms-react.netlify.app/
+[Link](https://hotel-rooms-react.netlify.app/)
 
 
 
